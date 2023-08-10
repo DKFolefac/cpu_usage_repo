@@ -1,5 +1,7 @@
 #!/bin/bash
 # exercise on bash script on cpu usage
+#script now on github repository
+#nadi
 cpu_threshold=5
 email_address=fomenkykelly21@gmail.com
 email_subject="report on cpu usage"
